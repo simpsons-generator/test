@@ -6,7 +6,5 @@ var URLS = [
   `${GHPATH}/index.html`,
   `${GHPATH}/sw.js`,
   `${GHPATH}/manifest.webmanifest`,
-  `${GHPATH}/icon.png`,
-  "https://molchweb.github.io/picture/menu.svg",
-  "https://molchweb.github.io/picture/close.svg"
+  `${GHPATH}/images.png`,
 ]
