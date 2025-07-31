@@ -1,5 +1,5 @@
 if (navigator.serviceWorker) {
-    navigator.serviceWorker.register('https://raw.githubusercontent.com/simpsons-generator/test/refs/heads/main/sw.js');
+    navigator.serviceWorker.register('sw.js');
 }
 
 const words = [
