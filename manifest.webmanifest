@@ -7,15 +7,15 @@
   "start_url": "https://simpsons-generator.github.io/test/",
  
   "background_color": "#0f0f0f",
-  "theme_color": "#007a87",
+  "theme_color": "#203a43",
  
   "display": "standalone", 
  
   "icons": [
       {
-        "src": "https://simpsons-generator.github.io/icon.png",
+        "src": "https://raw.githubusercontent.com/simpsons-generator/test/refs/heads/main/images.png",
         "type": "image/png",
-        "sizes": "1024x1024"
+        "sizes": "225x225"
       }
   ]
 }
