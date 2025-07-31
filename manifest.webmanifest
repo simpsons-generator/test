@@ -1,0 +1,21 @@
+{
+  "name": "Simpsons Generator",
+  "short_name": "SimpGen",
+  "description": "A website to decide what Episode of THE SIMPSONS to watch", 
+
+  "scope": "https://simpsons-generator.github.io/test",
+  "start_url": "https://simpsons-generator.github.io/test",
+ 
+  "background_color": "#0f0f0f",
+  "theme_color": "#007a87",
+ 
+  "display": "standalone", 
+ 
+  "icons": [
+      {
+        "src": "https://simpsons-generator.github.io/icon.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }
+  ]
+}
