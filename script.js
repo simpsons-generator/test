@@ -1,3 +1,7 @@
+if (navigator.serviceWorker) {
+    navigator.serviceWorker.register('/sw.js');
+}
+
 const words = [
   "Staffel 1, Folge 1: Es weihnachtet schwer",
   "Staffel 1, Folge 2: Bart wird ein Genie",
