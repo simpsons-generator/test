@@ -1,6 +1,6 @@
 var GHPATH = 'https://simpsons-generator.github.io/test';
 var APP_PREFIX = 'com.molch.simpgen';
-var VERSION = 'version_001';
+var VERSION = 'version_002';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
